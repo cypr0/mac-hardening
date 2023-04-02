@@ -40,7 +40,7 @@ The Benchmarks are coming with two profile definitions:
 
 ## Recommended reading
 
-[Apple Support - Howto use configuration profiles](https://support.apple.com/en-us/guide/mac-help/mh35561/mac)
+[Apple Support - How to use configuration profiles](https://support.apple.com/en-us/guide/mac-help/mh35561/mac)
 
 [CIS Apple macOS 13.0 Ventura Benchmark](https://www.cisecurity.org/cis-benchmarks#:~:text=Apple-,macOS,-DOWNLOAD%20THE%20BENCHMARK)
 
