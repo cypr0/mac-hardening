@@ -30,8 +30,6 @@ The Benchmarks are coming with two profile definitions:
 * acts as defense in depth measure.
 * may negatively inhibit the utility or performance of the technology.
 
-Whereas the settings for Ventura, Safari and Chrome are only compatible with Mac systems, Firefox' hardening config can also be applied to Linux or Windows systems.
-
 ## Howto install the profiles
 
 1. Copy the hardening profiles you want to use onto your Mac.
