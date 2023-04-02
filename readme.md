@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/cypr0/mac-hardening?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/cypr0/mac-hardening?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cypr0/mac-hardening?style=flat-square)
-![macOS](https://svgshare.com/i/ZjP.svg)
+![macOS](https://img.shields.io/badge/os-macOS-blue?style=flat-square)
 
 # Hardening your Mac.
 
