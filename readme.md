@@ -42,8 +42,11 @@ Whereas the settings for Ventura, Safari and Chrome are only compatible with Mac
 ## Recommended reading
 
 [Apple Support - Howto use configuration profiles](https://support.apple.com/en-us/guide/mac-help/mh35561/mac)
+
 [CIS Apple macOS 13.0 Ventura Benchmark](https://www.cisecurity.org/cis-benchmarks#:~:text=Apple-,macOS,-DOWNLOAD%20THE%20BENCHMARK)
+
 [CIS macOS Safari Benchmark](https://www.cisecurity.org/cis-benchmarks#:~:text=Safari-,Browser,-DOWNLOAD%20THE%20BENCHMARK)
+
 [CIS Google Chrome Benchmark](https://www.cisecurity.org/cis-benchmarks#:~:text=Google-,Chrome,-DOWNLOAD%20THE%20BENCHMARK)
 
 ## Contributing
