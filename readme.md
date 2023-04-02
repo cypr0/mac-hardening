@@ -18,13 +18,13 @@ This repo contains configuration profiles for macOS 13 (Ventura) and the browser
 
 The Benchmarks are coming with two profile definitions:
 
-Level 1: Items in this profile intend to:
+**Level 1:** Items in this profile intend to:
 
 * be practical and prudent;
 * provide a clear security benefit; and
 * not inhibit the utility of the technology beyond acceptable means.
 
-Level 2: This profile extens the "Level 1" profile. Items in this profile exhibit one or more of the following charactteristics:
+**Level 2:** This profile extens the "Level 1" profile. Items in this profile exhibit one or more of the following charactteristics:
 
 * are intended for environments or use cases where security is paramount.
 * acts as defense in depth measure.
