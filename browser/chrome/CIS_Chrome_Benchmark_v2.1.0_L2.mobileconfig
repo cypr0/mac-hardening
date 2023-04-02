@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Please check compatibility with your IT-environment before installing the profile. Use at your own risk. No warranty granted.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowFileSelectionDialogs</key>
+			<false/>
+			<key>BrowserGuestModeEnabled</key>
+			<false/>
+			<key>BrowserSignin</key>
+			<integer>0</integer>
+			<key>DefaultCookiesSetting</key>
+			<integer>4</integer>
+			<key>DefaultMediaStreamSetting</key>
+			<integer>3</integer>
+			<key>DefaultNotificationsSetting</key>
+			<integer>2</integer>
+			<key>DefaultWebBluetoothGuardSetting</key>
+			<integer>2</integer>
+			<key>DefaultWebUsbGuardSetting</key>
+			<integer>2</integer>
+			<key>DnsOverHttpsMode</key>
+			<string>secure</string>
+			<key>ForceGoogleSafeSearch</key>
+			<true/>
+			<key>IncognitoModeAvailability</key>
+			<integer>1</integer>
+			<key>NativeMessagingBlocklist</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome</string>
+			<key>PayloadIdentifier</key>
+			<string>com.google.Chrome.71D03F16-F85E-47FA-8A2D-D3ABDB79CE84</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>71D03F16-F85E-47FA-8A2D-D3ABDB79CE84</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSLErrorOverrideAllowed</key>
+			<false/>
+			<key>SafeSitesFilterBehavior</key>
+			<integer>1</integer>
+			<key>ScreenCaptureAllowed</key>
+			<false/>
+			<key>SearchSuggestEnabled</key>
+			<false/>
+			<key>TranslateEnabled</key>
+			<false/>
+			<key>VideoCaptureAllowed</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Chrome and Chromium hardening according to Level 2 profile of Google Chrome Benchmark (v2.1.0 - 12-21-2021)</string>
+	<key>PayloadDisplayName</key>
+	<string>CIS Google Chrome Benchmark - Level 2</string>
+	<key>PayloadIdentifier</key>
+	<string>cis-benchmark.chrome.level-2</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3C8166BC-97CA-4A44-8BB3-DF90EFDC2860</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2026-12-31T16:01:07Z</date>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>

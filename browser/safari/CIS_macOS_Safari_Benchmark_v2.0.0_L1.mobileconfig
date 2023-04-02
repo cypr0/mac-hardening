@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Please check compatibility with your IT-environment before installing the profile. Use at your own risk. No warranty granted.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoOpenSafeDownloads</key>
+			<false/>
+			<key>BlockStoragePolicy</key>
+			<integer>2</integer>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Safari.6037E832-3DCC-45A2-BE17-CB85FB4308B2</string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>6037E832-3DCC-45A2-BE17-CB85FB4308B2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>macOS Safari hardening according to Level 1 profile of CIS macOS Safari Benchmark (v2.0.0 - 11-28-2017)</string>
+	<key>PayloadDisplayName</key>
+	<string>CIS macOS Safari Benchmark - Level 1</string>
+	<key>PayloadIdentifier</key>
+	<string>cis-benchmark.macos-safari.level-1</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D3F799B-57EB-4E01-909A-773958AAE728</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2026-12-31T16:01:07Z</date>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
