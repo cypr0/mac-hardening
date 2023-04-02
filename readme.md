@@ -2,7 +2,8 @@
 ![GitHub](https://img.shields.io/github/license/cypr0/mac-hardening?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/cypr0/mac-hardening?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cypr0/mac-hardening?style=flat-square)
-![InfoSec](https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=InfoSec)
+![macOS](https://svgshare.com/i/ZjP.svg)
+
 # Hardening your Mac.
 
 A quick way to make your Mac a bit more secure is to use configuration profiles.
