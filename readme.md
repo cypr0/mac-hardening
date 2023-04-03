@@ -30,7 +30,7 @@ The Benchmarks are coming with two profile definitions:
 * acts as defense in depth measure.
 * may negatively inhibit the utility or performance of the technology.
 
-## Howto install the profiles
+## How to install the profiles
 
 1. Copy the hardening profiles you want to use onto your Mac.
 
