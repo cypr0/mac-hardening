@@ -44,7 +44,7 @@ The Benchmarks are coming with two profile definitions:
 
 1. Copy the hardening profiles you want to use onto your MAc.
 
-2. Open a terminal window and use the `sudo profiles -I <profile-file.mobileconfig>' command.
+2. Open a terminal window and use the `sudo profiles -I <profile-file.mobileconfig>` command.
 
 ## Recommended reading
 
