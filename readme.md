@@ -32,11 +32,19 @@ The Benchmarks are coming with two profile definitions:
 
 ## How to install the profiles
 
+### The way of the Padawan
+
 1. Copy the hardening profiles you want to use onto your Mac.
 
 2. Open your system settings and search for "profile".
 
 3. Add your desired hardening profile by clicking on the "+" and selecting the corresponding file.
+
+### The way of the Jedi
+
+1. Copy the hardening profiles you want to use onto your MAc.
+
+2. Open a terminal window and use the `sudo profiles -I <profile-file.mobileconfig>' command.
 
 ## Recommended reading
 
