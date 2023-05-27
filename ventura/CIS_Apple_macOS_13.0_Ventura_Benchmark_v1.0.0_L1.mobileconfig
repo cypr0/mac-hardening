@@ -250,7 +250,7 @@
 			<key>AutoOpenSafeDownloads</key>
 			<false/>
 			<key>BlockStoragePolicy</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>DownloadsClearingPolicy</key>
 			<integer>2</integer>
 			<key>HistoryAgeInDaysLimit</key>
@@ -262,7 +262,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.Safari</string>
 			<key>PayloadUUID</key>
-			<string>1A4DBD63-65D0-4CBD-9F96-4C4DF653C95C</string>
+			<string>5004BAD7-9929-42C0-AB92-E9B5BEC7BA89</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -290,7 +290,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>032B0657-B97C-43FF-9676-B12A12AD3185</string>
+	<string>CE557326-705B-466C-AD75-73AAD4EDF539</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>TargetDeviceType</key>
